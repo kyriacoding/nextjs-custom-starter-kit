@@ -68,4 +68,4 @@ Welcome to the **Web Starter Kit**! 🎉 This project provides a modern, scalabl
 
 ---
 
-💡 *Happy coding and building with ChurchFlow!* 🙌
+💡 *Happy coding and building!* 🙌
