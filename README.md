@@ -1,6 +1,6 @@
-# ⛪ ChurchFlow Web – Next.js Starter Kit 🚀
+# ⛪Next.js Starter Kit 🚀
 
-Welcome to the **ChurchFlow Web Starter Kit**! 🎉 This project provides a modern, scalable foundation for building web applications with **Next.js**, **TypeScript**, and a clean, organized folder structure.
+Welcome to the **Web Starter Kit**! 🎉 This project provides a modern, scalable foundation for building web applications with **Next.js**, **TypeScript**, and a clean, organized folder structure.
 
 ---
 
